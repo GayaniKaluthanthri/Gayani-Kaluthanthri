@@ -20,6 +20,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gayani Kaluthanthri&show_icons=true&locale=en" alt="Gayani Kaluthanthri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gayani Kaluthanthrihissa&" alt="Gayani Kaluthanthri" /></p>
